@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.gg{
+    width: 50%;
+    margin-left: 25%;
+    border-top: 10px;
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+.image-back{
+    margin-top: 15%;
+    border: 5px solid white;
+}
